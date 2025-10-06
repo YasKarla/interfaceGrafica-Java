@@ -35,6 +35,4 @@ public class Pedido {
     public void setNumeroPedido(int numeroPedido) {
         this.numeroPedido = numeroPedido;
     }
-
-    // Construtores, getters e setters
 }
